@@ -8,4 +8,6 @@ This is the repo for the main page of my **custom Chrome apps (using PWA technol
 - [ ] ChromeOS Text App
 - [ ] Actual main page.
 - [ ] Web Development Tutorial
-- [*]{part} This readme
+
+<p id="partdone"></p>
+This readme
